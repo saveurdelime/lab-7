@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6d19e66-0343-4744-bf53-bbe32952386c" name="Default Changelist" comment="" />
+    <list default="true" id="b6d19e66-0343-4744-bf53-bbe32952386c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instruction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/noms.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/users.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZRTxVhMY5cimZTWEkBFKP8RAXa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,8 +31,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab-5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -54,6 +65,7 @@
       <updated>1584801153337</updated>
       <workItem from="1584801154467" duration="77000" />
       <workItem from="1584801265359" duration="23628000" />
+      <workItem from="1584852576313" duration="209000" />
     </task>
     <servers />
   </component>
@@ -61,26 +73,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1584813019330">
+    <state x="716" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584852764654">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.20.1680.1050@0.0.1920.1050" timestamp="1584813019330" />
-    <state width="1901" height="352" key="GridCell.Tab.0.bottom" timestamp="1584808628566">
+    <state x="716" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.20.1680.1050@0.0.1920.1050" timestamp="1584852764654" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1584852784429">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1901" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.20.1680.1050@0.0.1920.1050" timestamp="1584808628566" />
-    <state width="1901" height="352" key="GridCell.Tab.0.center" timestamp="1584808628566">
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.20.1680.1050@0.0.1920.1050" timestamp="1584852784429" />
+    <state width="1901" height="286" key="GridCell.Tab.0.bottom" timestamp="1584852785436">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1901" height="352" key="GridCell.Tab.0.center/0.0.1920.1050/1920.20.1680.1050@0.0.1920.1050" timestamp="1584808628566" />
-    <state width="1901" height="352" key="GridCell.Tab.0.left" timestamp="1584808628566">
+    <state width="1901" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.20.1680.1050@0.0.1920.1050" timestamp="1584852785436" />
+    <state width="1901" height="286" key="GridCell.Tab.0.center" timestamp="1584852785436">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1901" height="352" key="GridCell.Tab.0.left/0.0.1920.1050/1920.20.1680.1050@0.0.1920.1050" timestamp="1584808628566" />
-    <state width="1901" height="352" key="GridCell.Tab.0.right" timestamp="1584808628566">
+    <state width="1901" height="286" key="GridCell.Tab.0.center/0.0.1920.1050/1920.20.1680.1050@0.0.1920.1050" timestamp="1584852785436" />
+    <state width="1901" height="286" key="GridCell.Tab.0.left" timestamp="1584852785436">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1901" height="352" key="GridCell.Tab.0.right/0.0.1920.1050/1920.20.1680.1050@0.0.1920.1050" timestamp="1584808628566" />
+    <state width="1901" height="286" key="GridCell.Tab.0.left/0.0.1920.1050/1920.20.1680.1050@0.0.1920.1050" timestamp="1584852785436" />
+    <state width="1901" height="286" key="GridCell.Tab.0.right" timestamp="1584852785436">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1901" height="286" key="GridCell.Tab.0.right/0.0.1920.1050/1920.20.1680.1050@0.0.1920.1050" timestamp="1584852785436" />
     <state width="1901" height="352" key="GridCell.Tab.1.bottom" timestamp="1584808628566">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -129,6 +145,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1901" height="352" key="GridCell.Tab.3.right/0.0.1920.1050/1920.20.1680.1050@0.0.1920.1050" timestamp="1584808628567" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1584852866472">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.20.1680.1050@0.0.1920.1050" timestamp="1584852866472" />
     <state x="604" y="140" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584817416818">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -143,8 +163,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/routes/users.js</url>
-          <line>32</line>
-          <properties lambdaOrdinal="-1" />
+          <line>38</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
